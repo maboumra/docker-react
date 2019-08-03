@@ -1,3 +1,8 @@
+# Docker Workflow Master Project
+
+Based on the course "Docker and Kubernetes: The Complete Guide" By Stephen Grider on Udemy.
+This is a model to a react project working in a Docker Workflow.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
